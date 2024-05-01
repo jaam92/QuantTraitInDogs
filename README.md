@@ -1,2 +1,2 @@
 # QuantTraitInDogs
-Domestication shapes dog genetics and traits 
+Code for Genotypic and phenotypic consequences of domestication in dogs
